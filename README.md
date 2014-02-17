@@ -10,10 +10,13 @@ Examples
 
 You can trace path as you would do it with SimpleXMLElement:
 
+<pre><code>
   $a = new WXML('<root><qa><question>the answer to life the universe and everything</question><answer>42</answer></qa></root>');
   echo (string)$a->qa->answer
+</code></pre>
 
 Outputs:
+
   42
 
 Assumptions
