@@ -6,7 +6,7 @@ When created, it was tried to be analoguous of SimpleXMLElement
  but with support of namespaces.
 
 Examples
-==================
+-------------------
 
 You can trace path as you would do it with SimpleXMLElement:
 
@@ -17,8 +17,8 @@ Outputs:
   42
 
 Assumptions
-====================
+----------------------
 
 Current assumptions:
-1. We only work with utf-8 version of xml.
-2. There is no schema validations yet.
+1.  We only work with utf-8 version of xml.
+2.  There is no schema validations yet.
