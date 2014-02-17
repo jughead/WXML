@@ -20,5 +20,6 @@ Assumptions
 ----------------------
 
 Current assumptions:
+
 1.  We only work with utf-8 version of xml.
 2.  There is no schema validations yet.
